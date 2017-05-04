@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[Put your id here]"
+        id          = "nb_unites_alcool.m_allard.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>Calcul du nombre d'unités d'alcool</name>
 
-    <description>
-        Ann app made using Scratch, Phonegap, github, and PhoneGap
+    <description> 
+        Un projet mené par le collège George Sand de CHâtellerault, sur la sensibilisation aux dangers de l'alcool. En particulier sur la différence entre les "doses maison" et les "doses bar".
+        An app made using Scratch, Phonegap, github, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
-        [Your Username]
+    <author href="http://scratch.mit.edu/users/M_Allard" email="[Your Email]">
+        M_Allard
     </author>
 
 </widget>
